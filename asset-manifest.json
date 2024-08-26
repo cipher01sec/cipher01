@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4991b4b0.css",
-    "main.js": "/static/js/main.57c43b67.js",
-    "static/js/592.210e1dbd.chunk.js": "/static/js/592.210e1dbd.chunk.js",
+    "main.css": "/static/css/main.1500e91c.css",
+    "main.js": "/static/js/main.b0b2e1c8.js",
+    "static/js/453.3a045426.chunk.js": "/static/js/453.3a045426.chunk.js",
     "static/media/wipfli.gif": "/static/media/wipfli.a886e39545667759b43c.gif",
     "static/media/cyber.png": "/static/media/cyber.49cc0bdd5c4435b5cf9f.png",
     "static/media/ring.svg": "/static/media/ring.154e76abf2e7f100a2dcfccb62045d5c.svg",
@@ -14,12 +14,12 @@
     "static/media/digital.png": "/static/media/digital.35fd6326911f338aac69.png",
     "static/media/cyber-insurance.png": "/static/media/cyber-insurance.fcba6c4ba7912f40278f.png",
     "index.html": "/index.html",
-    "main.4991b4b0.css.map": "/static/css/main.4991b4b0.css.map",
-    "main.57c43b67.js.map": "/static/js/main.57c43b67.js.map",
-    "592.210e1dbd.chunk.js.map": "/static/js/592.210e1dbd.chunk.js.map"
+    "main.1500e91c.css.map": "/static/css/main.1500e91c.css.map",
+    "main.b0b2e1c8.js.map": "/static/js/main.b0b2e1c8.js.map",
+    "453.3a045426.chunk.js.map": "/static/js/453.3a045426.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4991b4b0.css",
-    "static/js/main.57c43b67.js"
+    "static/css/main.1500e91c.css",
+    "static/js/main.b0b2e1c8.js"
   ]
 }
