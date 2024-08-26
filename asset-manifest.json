@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a31b558c.css",
+    "main.js": "/static/js/main.d1ede1d3.js",
+    "static/js/592.210e1dbd.chunk.js": "/static/js/592.210e1dbd.chunk.js",
+    "static/media/wipfli.gif": "/static/media/wipfli.a886e39545667759b43c.gif",
+    "static/media/cyber.png": "/static/media/cyber.49cc0bdd5c4435b5cf9f.png",
+    "static/media/ring.svg": "/static/media/ring.154e76abf2e7f100a2dcfccb62045d5c.svg",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/incident.png": "/static/media/incident.274d1fdb986fe301ff71.png",
+    "static/media/vuln-assess.png": "/static/media/vuln-assess.e75244ebd2a11627959f.png",
+    "static/media/red-ops.png": "/static/media/red-ops.73cfa0fdb72c601c132f.png",
+    "static/media/defense.png": "/static/media/defense.76e3ffc36a43c2c913eb.png",
+    "static/media/digital.png": "/static/media/digital.35fd6326911f338aac69.png",
+    "static/media/cyber-insurance.png": "/static/media/cyber-insurance.fcba6c4ba7912f40278f.png",
+    "index.html": "/index.html",
+    "main.a31b558c.css.map": "/static/css/main.a31b558c.css.map",
+    "main.d1ede1d3.js.map": "/static/js/main.d1ede1d3.js.map",
+    "592.210e1dbd.chunk.js.map": "/static/js/592.210e1dbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31b558c.css",
+    "static/js/main.d1ede1d3.js"
+  ]
+}
