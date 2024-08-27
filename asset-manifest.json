@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1500e91c.css",
-    "main.js": "/static/js/main.050ea7f3.js",
+    "main.js": "/static/js/main.c0880308.js",
     "static/media/wipfli.gif": "/static/media/wipfli.a886e39545667759b43c.gif",
     "static/media/cyber.png": "/static/media/cyber.49cc0bdd5c4435b5cf9f.png",
     "static/media/ring.svg": "/static/media/ring.154e76abf2e7f100a2dcfccb62045d5c.svg",
@@ -14,10 +14,10 @@
     "static/media/cyber-insurance.png": "/static/media/cyber-insurance.fcba6c4ba7912f40278f.png",
     "index.html": "/index.html",
     "main.1500e91c.css.map": "/static/css/main.1500e91c.css.map",
-    "main.050ea7f3.js.map": "/static/js/main.050ea7f3.js.map"
+    "main.c0880308.js.map": "/static/js/main.c0880308.js.map"
   },
   "entrypoints": [
     "static/css/main.1500e91c.css",
-    "static/js/main.050ea7f3.js"
+    "static/js/main.c0880308.js"
   ]
 }
