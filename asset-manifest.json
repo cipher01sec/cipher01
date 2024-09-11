@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e616a1f.css",
-    "main.js": "/static/js/main.2108ba67.js",
-    "static/js/378.1bf55a7c.chunk.js": "/static/js/378.1bf55a7c.chunk.js",
+    "main.css": "/static/css/main.ac7442fa.css",
+    "main.js": "/static/js/main.480bef02.js",
+    "static/js/378.a3cefdec.chunk.js": "/static/js/378.a3cefdec.chunk.js",
     "static/js/358.0524c99b.chunk.js": "/static/js/358.0524c99b.chunk.js",
     "static/js/459.51d7c20e.chunk.js": "/static/js/459.51d7c20e.chunk.js",
     "static/js/66.0cf4bfb1.chunk.js": "/static/js/66.0cf4bfb1.chunk.js",
@@ -19,16 +19,16 @@
     "static/media/digital.png": "/static/media/digital.35fd6326911f338aac69.png",
     "static/media/cyber-insurance.png": "/static/media/cyber-insurance.fcba6c4ba7912f40278f.png",
     "index.html": "/index.html",
-    "main.4e616a1f.css.map": "/static/css/main.4e616a1f.css.map",
-    "main.2108ba67.js.map": "/static/js/main.2108ba67.js.map",
-    "378.1bf55a7c.chunk.js.map": "/static/js/378.1bf55a7c.chunk.js.map",
+    "main.ac7442fa.css.map": "/static/css/main.ac7442fa.css.map",
+    "main.480bef02.js.map": "/static/js/main.480bef02.js.map",
+    "378.a3cefdec.chunk.js.map": "/static/js/378.a3cefdec.chunk.js.map",
     "358.0524c99b.chunk.js.map": "/static/js/358.0524c99b.chunk.js.map",
     "459.51d7c20e.chunk.js.map": "/static/js/459.51d7c20e.chunk.js.map",
     "66.0cf4bfb1.chunk.js.map": "/static/js/66.0cf4bfb1.chunk.js.map",
     "404.a40883c4.chunk.js.map": "/static/js/404.a40883c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e616a1f.css",
-    "static/js/main.2108ba67.js"
+    "static/css/main.ac7442fa.css",
+    "static/js/main.480bef02.js"
   ]
 }
